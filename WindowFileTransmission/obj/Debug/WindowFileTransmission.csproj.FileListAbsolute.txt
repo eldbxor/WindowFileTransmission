@@ -1,0 +1,10 @@
+D:\dotNetProject\WindowFileTransmission\WindowFileTransmission\bin\Debug\WindowFileTransmission.exe.config
+D:\dotNetProject\WindowFileTransmission\WindowFileTransmission\bin\Debug\WindowFileTransmission.exe
+D:\dotNetProject\WindowFileTransmission\WindowFileTransmission\bin\Debug\WindowFileTransmission.pdb
+D:\dotNetProject\WindowFileTransmission\WindowFileTransmission\obj\Debug\WindowFileTransmission.csprojResolveAssemblyReference.cache
+D:\dotNetProject\WindowFileTransmission\WindowFileTransmission\obj\Debug\WindowFileTransmission.Form1.resources
+D:\dotNetProject\WindowFileTransmission\WindowFileTransmission\obj\Debug\WindowFileTransmission.Properties.Resources.resources
+D:\dotNetProject\WindowFileTransmission\WindowFileTransmission\obj\Debug\WindowFileTransmission.csproj.GenerateResource.Cache
+D:\dotNetProject\WindowFileTransmission\WindowFileTransmission\obj\Debug\WindowFileTransmission.csproj.CoreCompileInputs.cache
+D:\dotNetProject\WindowFileTransmission\WindowFileTransmission\obj\Debug\WindowFileTransmission.exe
+D:\dotNetProject\WindowFileTransmission\WindowFileTransmission\obj\Debug\WindowFileTransmission.pdb
